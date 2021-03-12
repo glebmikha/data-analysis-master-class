@@ -2,4 +2,4 @@
 
 В этом репозитории лежат все материалы к моему мастер-классу на Udemy.
 
-[Страница German Credit Data на Kaggle.](https://www.kaggle.com/uciml/german-credit)
+<a href="https://www.kaggle.com/uciml/german-credit" target="_blank">Страница German Credit Data на Kaggle.</a>
